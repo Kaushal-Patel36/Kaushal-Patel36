@@ -25,7 +25,7 @@ My professional experience spans **deep learning pipelines, data engineering, an
 
 ## 🔗 Connect With Me  
 
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/kaushal-patel-p3/]
+- 💼 **LinkedIn**: https://www.linkedin.com/in/kaushal-patel-p3/
 - 💻 **GitHub**: https://github.com/Kaushal-Patel36
 - 📫 **Email**: kaushalp3603@gmail.com  
 
